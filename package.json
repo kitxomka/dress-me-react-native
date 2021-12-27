@@ -1,0 +1,37 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.11",
+    "@react-navigation/drawer": "6.1.8",
+    "@react-navigation/native": "6.0.6",
+    "@react-navigation/native-stack": "6.2.5",
+    "@react-navigation/stack": "6.0.11",
+    "axios": "0.24.0",
+    "react": "17.0.*",
+    "react-dom": "17.0.*",
+    "react-native-elements": "3.4.2",
+    "react-native-gesture-handler": "2.1.0",
+    "react-native-reanimated": "2.3.1",
+    "react-native-reanimated-carousel": "1.0.10",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "3.10.1",
+    "react-native-vector-icons": "9.0.0",
+    "react-native-web": "0.17.0",
+    "react-persist": "1.0.2",
+    "react-redux": "7.2.6",
+    "react-scripts": "3.4.1",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
